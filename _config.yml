@@ -27,7 +27,7 @@ github_username:  florianlionel
 # Build settings
 markdown: kramdown
 permalink: /blog/:title
-theme: minima
+theme: minimal-mistakes
 gems:
   - jekyll-feed
 exclude:
