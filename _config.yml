@@ -1,5 +1,6 @@
 name: Florian Taltavull
 markdown: kramdown
 permalink: /blog/:title
+theme: minima
 
 <!-- Suggested permalink structure: /blog/:year/:month/:day/:title -->
